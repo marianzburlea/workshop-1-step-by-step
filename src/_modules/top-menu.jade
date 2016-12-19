@@ -1,1 +1,9 @@
-p top menu
+- var content = site.data.content['top-menu'];
+
+.header.clearfix
+  nav
+    ul.nav.nav-pills.float-xs-right
+      each item in content
+        li.nav-item
+          a.nav-link(href="#{item.href}") #{item.text}
+  h3.text-muted Assignment 1
