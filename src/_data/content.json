@@ -1,0 +1,943 @@
+{
+  "top-menu": [
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/features",
+      "text": "Features"
+    },
+    {
+      "href": "/pricing",
+      "text": "Pricing"
+    }
+  ],
+  "footer": {
+    "menu-list": [
+      {
+        "title": "Learn",
+        "list-link": [
+          {
+            "link": "//firebase.google.com/docs/guides/",
+            "text": "Guides"
+          },
+          {
+            "link": "//firebase.google.com/docs/reference/",
+            "text": "Reference"
+          },
+          {
+            "link": "//firebase.google.com/docs/samples/",
+            "text": "Samples"
+          },
+          {
+            "link": "//firebase.google.com/docs/libraries/",
+            "text": "Libraries"
+          },
+          {
+            "link": "//github.com/firebase/",
+            "text": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Stay Connected",
+        "list-link": [
+          {
+            "text": "Blog",
+            "link": "//firebase.googleblog.com/"
+          },
+          {
+            "text": "Dev Summit",
+            "link": "//events.withgoogle.com/firebase-dev-summit/?utm_campaign=Firebase_event_awareness_en_09-19-16_&utm_source=fgc&utm_medium=footer"
+          },
+          {
+            "text": "Facebook",
+            "link": "//www.facebook.com/Firebase/"
+          },
+          {
+            "text": "Google+",
+            "link": "//plus.google.com/+firebase"
+          },
+          {
+            "text": "Twitter",
+            "link": "//twitter.com/Firebase"
+          },
+          {
+            "text": "YouTube",
+            "link": "//www.youtube.com/user/Firebase"
+          }
+        ]
+      },
+      {
+        "title": "Support",
+        "list-link": [
+          {
+            "text": "Contact Support",
+            "link": "//firebase.google.com/support/"
+          },
+          {
+            "text": "Stack Overflow",
+            "link": "//stackoverflow.com/questions/tagged/firebase"
+          },
+          {
+            "text": "Google Group",
+            "link": "//groups.google.com/forum/#!forum/firebase-talk"
+          },
+          {
+            "text": "Release Notes",
+            "link": "//firebase.google.com/support/releases"
+          },
+          {
+            "text": "Known Issues",
+            "link": "//firebase.google.com/support/known-issues/"
+          },
+          {
+            "text": "Legacy Console",
+            "link": "//www.firebase.com/login/"
+          },
+          {
+            "text": "Legacy Documentation",
+            "link": "//www.firebase.com/docs/"
+          }
+        ]
+      },
+      {
+        "title": "Google developers",
+        "list-link": [
+          {
+            "text": "Android",
+            "link": "//developer.android.com/index.html"
+          },
+          {
+            "text": "Chrome",
+            "link": "//developer.chrome.com/home"
+          },
+          {
+            "text": "Firebase",
+            "link": "//firebase.google.com/"
+          },
+          {
+            "text": "Google Cloud Platform",
+            "link": "//cloud.google.com/"
+          },
+          {
+            "text": "All Products",
+            "link": "//developers.google.com/products/"
+          }
+        ]
+      }
+    ],
+    "menu-bottom": [
+      {
+        "link": "//firebase.google.com/terms/",
+        "text": "Terms"
+      },
+      {
+        "link": "//www.google.com/policies/privacy/",
+        "text": "Privacy"
+      }
+    ]
+  },
+  "page": {
+    "index": {
+      "pageTitle": "App success made simple",
+      "pageDescription": "The tools and infrastructure you need to build better apps and grow successful businesses",
+      "header": {
+        "link": {
+          "href": "//console.firebase.google.com/",
+          "text": "Get started for free"
+        },
+        "background": {
+          "image": {
+            "src": "//firebase.google.com/images/landing-hero-welcome.png"
+          }
+        }
+      },
+      "article": [
+        {
+          "title": "Move fast",
+          "description": [
+            {
+              "type": "paragraph",
+              "content": "Firebase is a mobile platform that helps you quickly <b>develop</b> high-quality apps, <b>grow</b> your user base, and <b>earn</b> more money. Firebase is made up of complementary features that you can mix-and-match to fit your needs."
+            }
+          ],
+          "image": {
+            "src": "//lh3.googleusercontent.com/you5Qm6B9GhkBvQ-A25p2p3iDsRCzwbqupJ-H4wJWAnkl2O0jOgar4zhY31e0RUAw40P47jkfDg24T3KHDRFSFFRGUXn6a8=s888"
+          },
+          "link": [
+            {
+              "href": "//console.firebase.google.com/",
+              "text": "Get started for free"
+            }
+          ]
+        },
+        {
+          "title": "Forget about infrastructure",
+          "description": [
+            {
+              "type": "paragraph",
+              "content": "Implementing Firebase is quick and easy. With intuitive APIs packaged into a single SDK, you can focus on solving your customers' problems and not waste time building complex infrastructure."
+            }
+          ],
+          "image": {
+            "src": "//lh3.googleusercontent.com/gwkixzMDyZ2jrs7zR9-qxCwb4uKIjr4I8MFQaA2ITil0FxPieP485uaoRLaa-FCHuap_2B-ySvUZMk8bdi9IbGqQwfbBJy0=s888"
+          },
+          "link": [
+            {
+              "href": "//firebase.google.com/docs/",
+              "text": "View docs"
+            }
+          ]
+        },
+        {
+          "title": "Make smart, data-driven decisions",
+          "description": [
+            {
+              "type": "paragraph",
+              "content": "Firebase Analytics is the free and unlimited analytics solution built directly into Firebase. Gain insight into your users from ad click to app usage. Firebase Analytics works with other Firebase features, so you can take action on everything from click-through rates to app crashes."
+            }
+          ],
+          "image": {
+            "src": "//lh3.googleusercontent.com/pwQhILg37fTViz5pnLXanXBxvion56bimj3NCmWNtVe1y6r5mOMIYUYq6WEtEdGydLgLc7dqa1VAvJyESKMRBV939GT_4g=s888"
+          },
+          "link": [
+            {
+              "href": "//firebase.google.com/features/analytics/",
+              "text": "Learn more"
+            },
+            {
+              "href": "//support.google.com/firebase/answer/7157552",
+              "text": "Try a demo"
+            }
+          ]
+        },
+        {
+          "title": "Work across platforms",
+          "description": [
+            {
+              "type": "paragraph",
+              "content": "Deliver cross-platform apps with APIs packaged into single SDKs for iOS, Android, JavaScript and C++. Expand to a different platform without modifying your infrastructure."
+            }
+          ],
+          "image": {
+            "src": "//lh3.googleusercontent.com/KEqI1BbJEsonavhJ0kgJ99VB2nxKWafpKzQ4J5-66M6NBcNjmF9AipXutvJ1a4-lfIQPhoRrYR_DDWTc7rXbwMj-h6OCXb47=s688"
+          },
+          "link": [
+            {
+              "href": "//codelabs.developers.google.com/codelabs/firebase-ios-swift",
+              "text": "Try iOS tutorial"
+            },
+            {
+              "href": "//codelabs.developers.google.com/codelabs/firebase-android/",
+              "text": "Try Android tutorial"
+            },
+            {
+              "href": "//codelabs.developers.google.com/codelabs/firebase-web",
+              "text": "Try Web tutorial"
+            }
+          ]
+        },
+        {
+          "title": "Free to start, scale with ease",
+          "description": [
+            {
+              "type": "paragraph",
+              "content": "Most Firebase features are free forever, for any scale. Our four paid features have a generous free tier and two paid plans once you begin to grow."
+            },
+            {
+              "type": "paragraph",
+              "content": "When your app is a breakout hit, you don't have to worry about scaling your server code or provisioning extra capacity - Firebase handles that for you."
+            }
+          ],
+          "image": {
+            "src": "//lh3.googleusercontent.com/al4mYJftOUYM3zCUthx6LFofcsr_P5YVs2jEthRgZCcUzoaVCWFAw9RgqX1bJiNJO1d-kbYt5xmRugDmbmJf0bu0WHfnMUW8=s888"
+          },
+          "link": [
+            {
+              "href": "//firebase.google.com/pricing/",
+              "text": "See pricing"
+            }
+          ]
+        },
+        {
+          "title": "Get free support",
+          "description": [
+            {
+              "type": "paragraph",
+              "content": "We offer free email support to every developer, and the Firebase team and Google Developer Experts are active in online communities like Stack Overflow and GitHub. We're here to help."
+            }
+          ],
+          "image": {
+            "src": "//lh3.googleusercontent.com/YQbhTydh6WRVbgfGis-XJW8kqTUkn8FiUIVEzMtZ6-Ct5bOxWa1QQ2uMOBcYkF8vGE1VWBtlp-CWMIO0ClfaKENq_VPS1sw=s888"
+          },
+          "link": [
+            {
+              "href": "//firebase.google.com/support/",
+              "text": "See support options"
+            }
+          ]
+        }
+      ]
+    },
+    "features": {
+      "pageTitle": "Features",
+      "pageDescription": "Firebase helps you develop high-quality apps, grow your user base, and earn more money. Each feature works independently, and they work even better together.",
+      "header": {
+        "link": {
+          "href": "//firebase.google.com/docs/guides/",
+          "text": "View guides"
+        }
+      },
+      "article": [
+        {
+          "title": "Analytics",
+          "icon": "stats-dots",
+          "description": [
+            {
+              "type": "paragraph",
+              "content": "At the heart of Firebase is Firebase Analytics, a free and unlimited analytics solution. See user behavior and measure attribution from a single dashboard."
+            },
+            {
+              "type": "icon-list",
+              "content": [
+                "iOS",
+                "android"
+              ]
+            },
+            {
+              "type": "list",
+              "content": [
+                "Unlimited reporting of 500 event types, each with up to 25 attributes",
+                "One dashboard to view user behavior and cross-network campaign performance",
+                "Demographic segmentation, including age, gender, and location, available out-of-the-box",
+                "Export raw data to BigQuery for custom querying",
+                "The Firebase Analytics Partner database includes leading mobile advertising technology platforms, which have been validated to measure and optimize app campaign performance. <a href=\"//firebase.google.com/features/analytics/partners\" title=\"See all partners\">See all partners</a>"
+              ]
+            }
+          ],
+          "image": {
+            "src": "//lh3.googleusercontent.com/KEqI1BbJEsonavhJ0kgJ99VB2nxKWafpKzQ4J5-66M6NBcNjmF9AipXutvJ1a4-lfIQPhoRrYR_DDWTc7rXbwMj-h6OCXb47=s688"
+          },
+          "link": [
+            {
+              "href": "//firebase.google.com/features/analytics/",
+              "text": "Learn more"
+            },
+            {
+              "href": "//support.google.com/firebase/answer/7157552",
+              "text": "Try a demo"
+            }
+          ]
+        },
+        {
+          "title": "Develop",
+          "description": [
+            {
+              "type": "paragraph",
+              "content": "Build better apps and leave the operations to us. Save crucial development time and ship a high-quality, bug-free app."
+            },
+            {
+              "type": "smart-list",
+              "content": [
+                {
+                  "title": "Cloud Messaging",
+                  "icon": "cloud",
+                  "description": "Deliver and receive messages across platforms reliably",
+                  "content": [
+                    {
+                      "type": "icon-list",
+                      "content": [
+                        "iOS",
+                        "android",
+                        "web"
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": "Formerly known as Google Cloud Messaging (GCM), Firebase Cloud Messaging (FCM) is a cross-platform - Android, iOS, and Web - solution that lets you reliably deliver and receive messages and notifications at no cost."
+                    },
+                    {
+                      "type": "list",
+                      "content": [
+                        "Send unlimited upstream/downstream messages",
+                        "Send messages to individual devices or a user segment",
+                        "Handle all aspects of queueing and delivery",
+                        "Optimize for battery efficiency"
+                      ]
+                    }
+                  ],
+                  "link": [
+                    {
+                      "href": "//firebase.google.com/docs/cloud-messaging/",
+                      "text": "View docs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "smart-list",
+              "content": [
+                {
+                  "title": "Authentication",
+                  "icon": "users",
+                  "description": "Reduce friction with robust authentication",
+                  "content": [
+                    {
+                      "type": "icon-list",
+                      "content": [
+                        "iOS",
+                        "android",
+                        "web"
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": "Implement a complete authentication system that supports email & password, Facebook, Twitter, GitHub and Google Sign-In. Already have an account system? Easily integrate it with our custom auth service to give your users secure access to many of Firebase's other features."
+                    },
+                    {
+                      "type": "list",
+                      "content": [
+                        "Flexible SDKs on top of reliable Google infrastructure",
+                        "Optional, out-of-the-box authentication UI optimized to give your users the best experience",
+                        "Advanced functionality like email verification, anonymous accounts, and account linking"
+                      ]
+                    }
+                  ],
+                  "link": [
+                    {
+                      "href": "https://firebase.google.com/docs/auth/",
+                      "text": "View docs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "smart-list",
+              "content": [
+                {
+                  "title": "Realtime Database",
+                  "icon": "database",
+                  "description": "Store and sync app data in realtime",
+                  "content": [
+                    {
+                      "type": "icon-list",
+                      "content": [
+                        "iOS",
+                        "android",
+                        "web"
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": "A cloud-hosted NoSQL database. Data is stored as JSON, synced across connected devices in milliseconds, and available when your app goes offline."
+                    },
+                    {
+                      "type": "list",
+                      "content": [
+                        "Intuitive and easy-to-use API",
+                        "Remains responsive regardless of network latency or Internet connectivity so your Firebase app works offline. Data synchronizes when connectivity returns",
+                        "Handles the complexity of realtime synchronization and provides flexible conflict resolution",
+                        "Accessible directly from client SDKs, or from your server with the REST API"
+                      ]
+                    }
+                  ],
+                  "link": [
+                    {
+                      "href": "https://firebase.google.com/docs/database/",
+                      "text": "View docs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "smart-list",
+              "content": [
+                {
+                  "title": "Storage",
+                  "icon": "folder-plus",
+                  "description": "Store files with ease",
+                  "content": [
+                    {
+                      "type": "icon-list",
+                      "content": [
+                        "iOS",
+                        "android",
+                        "web"
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": "Store and retrieve user-generated content like images, audio and video directly from the Firebase client SDK."
+                    },
+                    {
+                      "type": "list",
+                      "content": [
+                        "Robust uploads and downloads in the background, regardless of network quality",
+                        "Secure client-side authorization, integrated with Authentication",
+                        "Petabyte scale data storage backed by Google Cloud Storage",
+                        "API access throughout Firebase or Google Cloud Storage APIs"
+                      ]
+                    }
+                  ],
+                  "link": [
+                    {
+                      "href": "https://firebase.google.com/docs/storage/",
+                      "text": "View docs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "smart-list",
+              "content": [
+                {
+                  "title": "Hosting",
+                  "icon": "earth",
+                  "description": "Store files with ease",
+                  "content": [
+                    {
+                      "type": "icon-list",
+                      "content": [
+                        "web"
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": "Production-grade hosting for developers. Deploy Web and mobile Web apps to a global content-delivery network (CDN) with a single command."
+                    },
+                    {
+                      "type": "list",
+                      "content": [
+                        "Automatically provisioned SSL certificate",
+                        "Blazing-fast content worldwide",
+                        "Support for client-side routing",
+                        "Atomic deploys and one-click rollbacks"
+                      ]
+                    }
+                  ],
+                  "link": [
+                    {
+                      "href": "https://firebase.google.com/docs/hosting/",
+                      "text": "View docs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "smart-list",
+              "content": [
+                {
+                  "title": "Test Lab",
+                  "icon": "mobile",
+                  "description": "Test in the lab, not on your users",
+                  "content": [
+                    {
+                      "type": "icon-list",
+                      "content": [
+                        "android"
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": "Test in the lab, not on your users."
+                    },
+                    {
+                      "type": "list",
+                      "content": [
+                        "Generate detailed reports and screenshots to help identify bugs",
+                        "Run custom test scripts on hundreds of device configurations",
+                        "Supplement your existing workflow through integration with Android Studio, command-line tools, and Web-based consoles"
+                      ]
+                    }
+                  ],
+                  "link": [
+                    {
+                      "href": "https://firebase.google.com/docs/test-lab/",
+                      "text": "View docs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "smart-list",
+              "content": [
+                {
+                  "title": "Crash Reporting",
+                  "icon": "bug",
+                  "description": "Keep your app stable",
+                  "content": [
+                    {
+                      "type": "icon-list",
+                      "content": [
+                        "iOS",
+                        "android"
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": "Receive actionable information on stability issues after you publish your app."
+                    },
+                    {
+                      "type": "list",
+                      "content": [
+                        "Prioritize crashes by frequency and impact",
+                        "Comprehensive data surrounding each crash, including device characteristics, device circumstances, a stack trace, and more",
+                        "Reliably collect crashes that occur while the device is online or offline",
+                        "Ability to measure the impact of a crash on user behavior via Firebase Analytics"
+                      ]
+                    }
+                  ],
+                  "link": [
+                    {
+                      "href": "https://firebase.google.com/docs/crash/",
+                      "text": "View docs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "//lh3.googleusercontent.com/KEqI1BbJEsonavhJ0kgJ99VB2nxKWafpKzQ4J5-66M6NBcNjmF9AipXutvJ1a4-lfIQPhoRrYR_DDWTc7rXbwMj-h6OCXb47=s688"
+          }
+        },
+        {
+          "title": "Grow",
+          "description": [
+            {
+              "type": "paragraph",
+              "content": "Acquire and engage the right users at the right time. Take the guesswork out of growth."
+            },
+            {
+              "type": "smart-list",
+              "content": [
+                {
+                  "title": "Notifications",
+                  "icon": "bullhorn",
+                  "description": "Engage with users at the right moment",
+                  "content": [
+                    {
+                      "type": "icon-list",
+                      "content": [
+                        "iOS",
+                        "android"
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": "Easily manage notification campaigns. Schedule and send messages to engage the right users at the most relevant time."
+                    },
+                    {
+                      "type": "list",
+                      "content": [
+                        "Send free and unlimited notifications across Android, and iOS.",
+                        "Send messages and analyze effectiveness in one dashboard without writing any code",
+                        "Integrate with Firebase Analytics to deliver messages to a user segment"
+                      ]
+                    }
+                  ],
+                  "link": [
+                    {
+                      "href": "https://firebase.google.com/features/notifications/",
+                      "text": "Learn more"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "smart-list",
+              "content": [
+                {
+                  "title": "Remote Config",
+                  "icon": "connection",
+                  "description": "Customize your app on the fly",
+                  "content": [
+                    {
+                      "type": "icon-list",
+                      "content": [
+                        "iOS",
+                        "android"
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": "Update your app without deploying a new version. Quickly deliver the right experience to the right users."
+                    },
+                    {
+                      "type": "list",
+                      "content": [
+                        "Modify your app without a new production deployment",
+                        "Customize content for different Firebase Analytics audiences and measure results",
+                        "Roll out features gradually and monitor the impact"
+                      ]
+                    }
+                  ],
+                  "link": [
+                    {
+                      "href": "https://firebase.google.com/features/remote-config/",
+                      "text": "Learn more"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "smart-list",
+              "content": [
+                {
+                  "title": "App Indexing",
+                  "icon": "search",
+                  "description": "Drive organic search traffic to your app",
+                  "content": [
+                    {
+                      "type": "icon-list",
+                      "content": [
+                        "iOS",
+                        "android"
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": "Help users discover and re-engage with your app by surfacing relevant in-app content in Google Search results."
+                    },
+                    {
+                      "type": "list",
+                      "content": [
+                        "Show your in-app content via Google Search",
+                        "Make your content accessible through autocomplete and Now on Tap for Android devices",
+                        "Improve your app ranking in Google Search results"
+                      ]
+                    }
+                  ],
+                  "link": [
+                    {
+                      "href": "https://firebase.google.com/docs/app-indexing/",
+                      "text": "View docs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "smart-list",
+              "content": [
+                {
+                  "title": "Dynamic Links",
+                  "icon": "link",
+                  "description": "Send users to the right place inside your app",
+                  "content": [
+                    {
+                      "type": "icon-list",
+                      "content": [
+                        "iOS",
+                        "android"
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": "Dynamic Links are smart URLs that dynamically change behavior to provide the best experience across different platforms. Dynamic Links can survive the app install process and take users to relevant content whether they're a brand-new user or a longtime customer."
+                    },
+                    {
+                      "type": "list",
+                      "content": [
+                        "Improve acquisition and engagement by bringing users directly to content that they were originally searching for, whether they have your app installed or not",
+                        "Delight new users with personalized promotions and messages after install"
+                      ]
+                    }
+                  ],
+                  "link": [
+                    {
+                      "href": "https://firebase.google.com/features/dynamic-links/",
+                      "text": "Learn more"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "smart-list",
+              "content": [
+                {
+                  "title": "Invites",
+                  "icon": "share2",
+                  "description": "Empower your users to share your app",
+                  "content": [
+                    {
+                      "type": "icon-list",
+                      "content": [
+                        "iOS",
+                        "android"
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": "Out-of-the-box solution for app referrals and sharing. Let your existing users easily share your app, or their favorite in-app content, via email or SMS. Use in conjunction with promotions to increase acquisition and retention."
+                    },
+                    {
+                      "type": "list",
+                      "content": [
+                        "Invite the most relevant contacts with smart suggestions",
+                        "Free email and SMS delivery",
+                        "Powered by Firebase Dynamic Links"
+                      ]
+                    }
+                  ],
+                  "link": [
+                    {
+                      "href": "https://firebase.google.com/docs/invites/",
+                      "text": "View docs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "smart-list",
+              "content": [
+                {
+                  "title": "AdWords",
+                  "icon": "google",
+                  "description": "Acquire users with the reach of Google",
+                  "content": [
+                    {
+                      "type": "icon-list",
+                      "content": [
+                        "iOS",
+                        "android"
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": "Automatically link AdWords to a user segment you define in Firebase Analytics. Improve ad targeting and optimize your campaign performance."
+                    },
+                    {
+                      "type": "list",
+                      "content": [
+                        "Conversion tracking for first opens and in-app events without implementing any additional SDKs",
+                        "Cross-network attribution measurement and LTV in one dashboard",
+                        "Show ads to users based on user segments from Firebase Analytics"
+                      ]
+                    }
+                  ],
+                  "link": [
+                    {
+                      "href": "https://firebase.google.com/docs/adwords/",
+                      "text": "View docs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "https://lh3.googleusercontent.com/_2padpFQdJw4vVTQOYp1VlWiCZMjctrO7perJ7SMW67sbOrMLb_JHSIfNoaI_ypxwtQBA6QuXdTcagtaZu30J3ZLMBkqbyk=s688"
+          }
+        },
+        {
+          "title": "Earn",
+          "description": [
+            {
+              "type": "paragraph",
+              "content": "Earn money by displaying engaging ads to a global audience."
+            },
+            {
+              "type": "smart-list",
+              "content": [
+                {
+                  "title": "AdMob",
+                  "icon": "amazon",
+                  "description": "Monetize through engaging ads",
+                  "content": [
+                    {
+                      "type": "icon-list",
+                      "content": [
+                        "iOS",
+                        "android"
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": "Monetize your app while giving your users a great experience."
+                    },
+                    {
+                      "type": "list",
+                      "content": [
+                        "Show ads from millions of Google advertisers competing in real time",
+                        "Choose a format to suit your app, including banner, video and native ads",
+                        "Work with more than 40 top ad networks using AdMob Mediation",
+                        "Cross-promote between your apps for free with AdMob house ads"
+                      ]
+                    }
+                  ],
+                  "link": [
+                    {
+                      "href": "https://firebase.google.com/docs/admob/",
+                      "text": "View docs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "https://lh3.googleusercontent.com/_2padpFQdJw4vVTQOYp1VlWiCZMjctrO7perJ7SMW67sbOrMLb_JHSIfNoaI_ypxwtQBA6QuXdTcagtaZu30J3ZLMBkqbyk=s688"
+          }
+        }
+      ]
+    },
+    "pricing": {
+      "pageTitle": "Pricing",
+      "pageDescription": "Get started with Firebase for free and scale worldwide to millions of users, paying only for what you use.",
+      "header": {
+        "link": {
+          "href": "https://firebase.google.com/docs/",
+          "text": "View guides"
+        }
+      },
+      "faq": [
+        {
+          "question": "Which features are paid? Which are free?",
+          "answer": [
+            "Firebase's paid infrastructure features are the Realtime Database, Storage, Hosting, and Test Lab. We offer a free tier for all of these features.",
+            "Firebase also has many free features: Analytics, Cloud Messaging, Notifications, Remote Config, App Indexing, Dynamic Links, Invites, Crash Reporting, and Authentication. You can use an unlimited amount of any of these features in all plans, including our free Spark plan."
+          ]
+        },
+        {
+          "question": "How do I know which plan is right for me?",
+          "answer": [
+            "Our Spark plan is a great place to develop your app for free, whether a hobby project or the next big start-up. You get all the free Firebase features (Analytics, Notifications, Crash Reporting, and so on) and generous amounts of our paid infrastructure features. However, if you exceed your Spark plan resources in a calendar month, your app will be shut off for the remainder of that month. In addition, Google Cloud Platform features are not available in the Spark tier.",
+            "Our Flame plan is designed for early-stage startups and small- production apps looking for a predictable, low price but with more capacity than our free-tier offers for the Realtime Database, Storage, or Hosting resources. Like the Spark plan, Google Cloud Platform is not available on the Flame plan. Exceeding your plan resources in any month will cause your app to be shut off for the remainder of that month.",
+            "Our Blaze plan is designed for large-scale production apps and apps that cannot accept downtime for exceeding plan limits. The Blaze plan also allows you to extend your app with paid Google Cloud Platform features. You pay only for the resources that you consume, allowing you to scale with demand. We strive to make our Blaze plan prices competitive with industry-leading cloud providers.",
+            "You can track your usage of Realtime Database and Hosting resources in the Firebase console. See <a href=\"https://console.firebase.google.com/project/_/database/usage/last-30d/bandwidth\">Realtime Database Usage</a> and <a href=\"https://console.firebase.google.com/project/_/hosting/usage/last-30d/bandwidth\">Hosting Usage</a>."
+          ]
+        },
+        {
+          "question": "What is a \"simultaneous database connection\"?",
+          "answer": [
+            "Firebase imposes hard limits on the number of simultaneous connections to your app's database. These limits are in place to protect both Firebase and our users from abuse.",
+            "The Spark plan limit is 100 and cannot be raised. The Flame and Blaze plans currently have an initial limit of 10,000 simultaneous database connections. This is to prevent abuse and can be raised by contacting Firebase support with 24 hours' notice.",
+            "This limit isn't the same as the total number of users of your app, because your users don't all connect at once. We encourage you to monitor your peak simultaneous database connections and upgrade if needed.",
+            "We're working to remove the initial 10,000 simultaneous-connections cap on the Flame and Blaze plans."
+          ]
+        },
+        {
+          "question": "What if I exceed my Spark or Flame plan limits?",
+          "answer": [
+            "To provide you with a predictable price, the resources available to you in the Spark and Flame plans are capped. This means that when you exceed any plan limit in any month, your app will be turned off to prevent any further resource usage and additional charges.",
+            "Usage is measured monthly, and if your app is disabled in a given month because of usage, it is automatically re-enabled at the beginning of the next month.",
+            "We will attempt to notify you by email as you approach your resource limits. Of course, this may not be possible if a sudden spike in usage occurs. To avoid caps altogether, upgrade to the Blaze plan, which has no resource limits."
+          ]
+        }
+      ]
+    }
+  }
+}
