@@ -2,8 +2,12 @@
 
 .header.clearfix
   nav
+    p Nice: #{currentPage}
     ul.nav.nav-pills.float-xs-right
       each item in content
         li.nav-item
-          a.nav-link(href="#{item.href}") #{item.text}
+          if currentPage === item.href
+            a.nav-link.active(href="#{item.href}") #{item.text}
+          else
+            a.nav-link(href="#{item.href}") #{item.text}
   h3.text-muted Assignment 1
