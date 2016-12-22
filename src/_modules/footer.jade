@@ -1,1 +1,10 @@
-p footer
+- var footer = site.data.content.footer;
+footer
+  .row
+    each item in footer['menu-list']
+      .col-md-3
+        h3.footer-menu-title #{item.title}
+        ul.footer-menu-list
+          each link in item['list-link']
+            li
+              a(href="#{link.link}") #{link.text}

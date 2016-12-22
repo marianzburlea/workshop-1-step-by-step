@@ -1,0 +1,18 @@
+// It's a good habit to use this as a class prepend
+//   to ensure consistency
+$class: 'footer';
+
+.#{$class}-menu-title {
+  // Since the value of $class is 'footer' the line above
+  //   will generate this css:
+  //   .footer-menu-title
+  font-size: 1rem;
+}
+
+.#{$class}-menu-list {
+  // Since the value of $class is 'footer' the line above
+  //   will generate this css:
+  //   .footer-menu-list
+  list-style-type: none;
+  padding: 0;
+}

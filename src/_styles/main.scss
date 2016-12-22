@@ -2,6 +2,9 @@
 @import 'node_modules/normalize.css/normalize';
 @import 'node_modules/bootstrap/scss/bootstrap.scss';
 
+// This will look for the file named "_footer.scss"
+@import 'footer';
+
 // Import Modules
 // @import '../_modules/link/link';
 
