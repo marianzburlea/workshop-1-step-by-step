@@ -1,5 +1,7 @@
 # Workshop 1 Step By Step readme
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/marianzburlea/workshop-1-step-by-step.svg)](https://greenkeeper.io/)
+
 Generated on 2016-12-16 using
 [generator-yeogurt@1.5.3](https://github.com/larsonjj/generator-yeogurt)
 
